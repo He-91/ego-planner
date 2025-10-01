@@ -1,8 +1,4 @@
-# Note!
-Our recently developed planner [EGO-Swarm](https://github.com/ZJU-FAST-Lab/ego-planner-swarm) is an evolution from EGO-Planner. 
-It is more robust and safe, and therefore, is more recommended to use.
-If you have only one drone, just set the `drone_id` to `0` in EGO-Swarm's launch files.
-Of course, some topic names are changed from EGO-Planner, check it using `rqt_graph` and `rosnode info <package name>`.
+
 
 # ROS2 Support
 For the ROS2 version, please refer to the branch [ros2_version](https://github.com/ZJU-FAST-Lab/ego-planner-swarm/tree/ros2_version) of the repo ego-planner-swarm.
